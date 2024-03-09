@@ -123,4 +123,3 @@ sbit D31 = P3^7;
 
 int HIGH = 1;
 int LOW = 0;
-
